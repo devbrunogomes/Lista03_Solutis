@@ -9,7 +9,7 @@ Neste repositório, você encontrará as soluções desenvolvidas pelo **SQUAD 1
 - **Danielle Sanches**
 - **Bruno Gomes**
 - **Fábio Macedo**
-- **Yasmin**
+- **Yasmim Lima**
 - **Higor**
 
 ---
@@ -42,7 +42,7 @@ Cada questão foi implementada em uma classe própria, com um método `resultado
 
 ---
 
-### 4 - Yasmin
+### 4 - Yasmim Lima
 
 **Questões Designadas:** 24, 36, 39, 45, 46, 50, 52, 56, 58, 59, 64, 65
 
