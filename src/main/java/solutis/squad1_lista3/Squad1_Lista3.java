@@ -65,6 +65,7 @@ public class Squad1_Lista3 {
         //Questao25.resposta();
         //Questao29.resposta();
         //Questao34.resposta();
+        //Questao40.resposta();
         
         //Danielle: 4, 9, 11, 15, 16, 17, 18, 26, 33, 49, 55, 57, 62        
         /*Respostas abaixo*/
