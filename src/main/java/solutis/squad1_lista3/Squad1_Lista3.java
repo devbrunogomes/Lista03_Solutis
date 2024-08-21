@@ -74,7 +74,19 @@ public class Squad1_Lista3 {
         /*Respostas abaixo*/
         
         //Fábio: 5, 6, 14, 19, 23, 28, 31, 32, 41, 42, 48, 54, 61
-        /*Respostas abaixo*/
+        //Questao05.resposta(args);
+        //Questao06.resposta(args);
+        //Questao14.resposta(args);
+        //Questao19.resposta(args);
+        //Questao23.resposta(args);
+        //Questao28.resposta(args);
+        //Questao31.resposta(args);
+        //Questao32.resposta(args);
+        //Questao41.resposta(args);
+        //Questao42.resposta(args);
+        //Questao48.resposta(args);
+        //Questao54.resposta(args);
+        //Questao61.resposta(args);
         
         //Yasmin: 24, 36, 39, 45, 46, 50, 52, 56, 58, 59, 64, 65
         /*Respostas abaixo*/
