@@ -32,6 +32,14 @@ Cada questão foi implementada em uma classe própria, com um método `resultado
 
 ### 2 - Bruno Gomes
 
+Nesta lista de exercícios consegui exercitar minha lógica de programação, ao utlizar estruturas condicionais, 
+de repetição, tipagens e uso de Arrays.
+
+Tentei deixar o código consiso e legível, ao máximo possível.
+
+As questões que considerei mais interessantes de serem resolvidas foram as questões
+**25**, devido ao tratamento de exceções, e as **51 e 63**, devido à utilização de Arrays.
+
 **Questões Designadas:** 1, 3, 8, 10, 12, 13, 25, 29, 34, 40, 51, 53, 63
 
 ---
