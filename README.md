@@ -51,6 +51,7 @@ As questões que considerei mais interessantes de serem resolvidas foram as ques
 Nesta lista pude colocar em prática a lógica de programação que tenho estudado, buscando tornar o código legível e de fácil escalabilidade, utilizando de alguns princípios como DRY (evitar repetições desnecessárias), KISS ( código simples e direto), SOC (código dividido em seções distintas para tratar aspectos distintos). 
 
 Achei como mais desafiador entre as minhas questões, a 23, que pedia para comparar quem faz aniversário primeiro, pensei em algumas opções e busquei criar um código mais limpo e direto possível.
+
 **Questões Designadas:** 5, 6, 14, 19, 23, 28, 31, 32, 41, 42, 48, 54, 61
 
 ---
