@@ -71,7 +71,17 @@ public class Squad1_Lista3 {
         //Questao63.resposta();
         
         //Danielle: 4, 9, 11, 15, 16, 17, 18, 26, 33, 49, 55, 57, 62        
-        /*Respostas abaixo*/
+         //Questao04.resposta();
+         //Questao09.resposta();
+         //Questao11.resposta();
+         //Questao17.resposta();
+         //Questao18.resposta();
+         //Questao26.resposta();
+         //Questao33.resposta();
+         //Questao49.resposta();
+         //Questao55.resposta();
+         //Questao57.resposta();
+         //Questao62.resposta();
         
         //Fábio: 5, 6, 14, 19, 23, 28, 31, 32, 41, 42, 48, 54, 61
         //Questao05.resposta(args);
