@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package solutis.squad1_lista3;
 
 import java.util.Scanner;
@@ -13,18 +9,18 @@ import java.util.Scanner;
 public class Questao29 {
 
     public static void resposta() {
-        Scanner scan = new Scanner(System.in); 
+        Scanner scan = new Scanner(System.in);
 
         // Recebendo os dois pontos do retângulo
         System.out.print("Digite a coordenada X do ponto superior esquerdo (-> x1 <-, y1): ");
         int x1 = scan.nextInt();
-        
+
         System.out.printf("Digite a coordenada Y do ponto superior esquerdo (%s , -> y1 <-): ", x1);
         int y1 = scan.nextInt();
 
         System.out.print("Digite a coordenada X do ponto inferior direito (-> x2 <- , y2): ");
         int x2 = scan.nextInt();
-        
+
         System.out.printf("Digite a coordenada X do ponto inferior direito ( %s  , -> y2 <-): ", x2);
         int y2 = scan.nextInt();
 
@@ -46,7 +42,7 @@ public class Questao29 {
             // Recebendo outro ponto
             System.out.print("Digite a coordenada X de outro ponto (-> x <- , y): ");
             int x = scan.nextInt();
-            
+
             System.out.printf("Digite a coordenada Y de outro ponto (%s , -> y <-): ", x);
             int y = scan.nextInt();
 
@@ -75,4 +71,3 @@ public class Questao29 {
         scan.close();
     }
 }
-

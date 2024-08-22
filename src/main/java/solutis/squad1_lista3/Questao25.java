@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package solutis.squad1_lista3;
 
 import java.util.Scanner;
@@ -11,17 +7,18 @@ import java.util.Scanner;
  * @author bsgom
  */
 public class Questao25 {
+
     public static void resposta() {
         Scanner scan = new Scanner(System.in);
-        
+
         //Validacao da HORA
         String horaStr;
         int hora;
-        
+
         do {
             System.out.print("Digite a hora: ");
             horaStr = scan.nextLine();
-            
+
             // Tenta converter a string para um número inteiro
             try {
                 hora = Integer.parseInt(horaStr);
@@ -35,20 +32,20 @@ public class Questao25 {
                 System.out.println("Hora invalida. Deve ser um numero entre 0 e 23.");
             }
         } while (hora < 0 || hora > 23);
-        
+
         String horaFormatada = hora < 9 ? ('0' + Integer.toString(hora)) : Integer.toString(hora);
-        
+
         //Validacao dos MINUTOS
         String minutosStr;
         int minutos;
-        
+
         do {
             System.out.print("Digite os minutos: ");
-            horaStr = scan.nextLine();
-            
+            minutosStr = scan.nextLine();
+
             // Tenta converter a string para um número inteiro
             try {
-                minutos = Integer.parseInt(horaStr);
+                minutos = Integer.parseInt(minutosStr);
 
                 if (minutos < 0 || minutos > 59) {
                     System.out.println("Minutos invalidos. Deve estar entre 0 e 59.");
@@ -59,17 +56,17 @@ public class Questao25 {
                 System.out.println("Minutos invalidos. Deve ser um numero entre 0 e 59.");
             }
         } while (minutos < 0 || minutos > 59);
-        
+
         String minutoFormatado = minutos < 9 ? ('0' + Integer.toString(minutos)) : Integer.toString(minutos);
-        
+
         //Validacao dos Segundos
         String segundosStr;
         int segundos;
-        
+
         do {
             System.out.print("Digite os Segundos: ");
             segundosStr = scan.nextLine();
-            
+
             // Tenta converter a string para um número inteiro
             try {
                 segundos = Integer.parseInt(segundosStr);
@@ -83,16 +80,16 @@ public class Questao25 {
                 System.out.println("Segundos invalidos. Deve ser um numero entre 0 e 59.");
             }
         } while (segundos < 0 || segundos > 59);
-        
+
         String segundosFormatado = segundos < 9 ? ('0' + Integer.toString(segundos)) : Integer.toString(segundos);
-        
-        
-        
+
         //Saída
-        System.out.println("Hora valida: " + horaFormatada + "hrs");
-        System.out.println("Minutos validos: " + minutoFormatado + "m");
-        System.out.println("Segundos validos: " + segundosFormatado + "s");
-        System.out.println("=======================");                
+        System.out.println("Hora validada: " + horaFormatada + "hrs");
+        System.out.println("Minutos validados: " + minutoFormatado + "m");
+        System.out.println("Segundos validados: " + segundosFormatado + "s");
+        System.out.println("========== HORA FORMATADA ============");
         System.out.println(horaFormatada + ":" + minutoFormatado + ":" + segundosFormatado);
+        
+        scan.close();
     }
 }
