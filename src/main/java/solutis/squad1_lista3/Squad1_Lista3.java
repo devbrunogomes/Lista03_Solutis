@@ -99,8 +99,14 @@ public class Squad1_Lista3 {
         //Questao61.resposta(args);
         
         //Yasmin: 24, 36, 39, 45, 46, 50, 52, 56, 58, 59, 64, 65
-        /*Respostas abaixo*/
-        
+        //Questao36.resposta(args);
+        //Questao39.resposta(args);
+        //Questao45.resposta(args);
+        //Questao50.resposta(args);
+        //Questao59.resposta(args);
+        //Questao64.resposta(args);
+        //Questao65.resposta(args);
+                
         //Higor: 2, 7, 20, 21, 22, 27, 30, 35, 37, 38, 43, 44, 60        
         //Questao02.resposta(args);
         //Questao07.resposta(args);
