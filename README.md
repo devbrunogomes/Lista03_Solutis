@@ -26,6 +26,8 @@ Cada questão foi implementada em uma classe própria, com um método `resultado
 
 ### 1 - Danielle Sanches
 
+Achei interessante os excercícios, excercitei minha lógica e me senti bem desafiada no excercício 55.
+
 **Questões Designadas:** 4, 9, 11, 15, 16, 17, 18, 26, 33, 49, 55, 57, 62
 
 ---
