@@ -16,7 +16,7 @@ Neste repositório, você encontrará as soluções desenvolvidas pelo **SQUAD 1
 
 ### Estrutura do Projeto
 
-Cada questão foi implementada em uma classe própria, com um método `resultado()` que é chamado na classe principal para executar a solução.
+Cada questão foi implementada em uma classe própria, com um método `resultado()` que é chamado na classe principal "Squad1_Lista3" para executar a solução.
 
 **Exemplo de chamada do método:**
 
