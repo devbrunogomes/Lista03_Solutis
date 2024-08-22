@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package solutis.squad1_lista3;
 
 import java.util.Scanner;
@@ -15,9 +11,6 @@ public class Questao51 {
     public static void resposta() {
         Scanner scan = new Scanner(System.in);
 
-//        double antepenultimo = 1;
-//        double penultimo = 1;
-//        double ultimo = 2;
         double auxiliar;
 
         System.out.print("Quantos 'n' termos de Tribonacci devem ser exibidos? ");
@@ -39,5 +32,7 @@ public class Questao51 {
 
             System.out.printf("%.0f \n", auxiliar);
         }
+
+        scan.close();
     }
 }

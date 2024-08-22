@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package solutis.squad1_lista3;
 
 import java.util.Scanner;
@@ -14,6 +10,8 @@ public class Questao40 {
 
     public static void resposta() {
         Scanner scan = new Scanner(System.in);
+
+        //Variaveis
         int contadorPessoas = 1; //iniciando o contador
         int idadeAtual = 0; //input de cada idade
         int somaIdades = 0;
@@ -22,6 +20,7 @@ public class Questao40 {
         int menorIdade = Integer.MAX_VALUE;
         int qntdMaiorQue18 = 0;
 
+        //inputs e laço de repeticao
         System.out.print("Para comecar, digite a quantidade de pessoas do grupo: ");
         int totalPessoas = scan.nextInt();
 
@@ -50,5 +49,7 @@ public class Questao40 {
         System.out.println("Maior idade: " + maiorIdade);
         System.out.println("Menor idade: " + menorIdade);
         System.out.println("Quantidade de pessoas maior de idade: " + qntdMaiorQue18);
+
+        scan.close();
     }
 }
