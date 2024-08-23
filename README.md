@@ -58,7 +58,7 @@ Achei como mais desafiador entre as minhas questões, a 23, que pedia para compa
 
 ### 4 - Yasmim Lima
 
-**Questões Designadas:** 24, 36, 39, 45, 46, 50, 52, 56, 58, 59, 64, 65
+**Questões Designadas:** 24, 36, 39, 45, 46, 47, 50, 52, 56, 58, 59, 64, 65
 
 ---
 
