@@ -19,8 +19,8 @@ public class Squad1_Lista3 {
                 
         Exemplo: Questao00.resposta();
         
-        */
-        
+         */
+
         //Bruno: 1, 3, 8, 10, 12, 13, 25, 29, 34, 40, 51, 53, 63
         //Questao01.resposta();
         //Questao03.resposta();
@@ -37,17 +37,17 @@ public class Squad1_Lista3 {
         //Questao63.resposta();
         
         //Danielle: 4, 9, 11, 15, 16, 17, 18, 26, 33, 49, 55, 57, 62        
-         //Questao04.resposta();
-         //Questao09.resposta();
-         //Questao11.resposta();
-         //Questao17.resposta();
-         //Questao18.resposta();
-         //Questao26.resposta();
-         //Questao33.resposta();
-         //Questao49.resposta();
-         //Questao55.resposta();
-         //Questao57.resposta();
-         //Questao62.resposta();
+        //Questao04.resposta();
+        //Questao09.resposta();
+        //Questao11.resposta();
+        //Questao17.resposta();
+        //Questao18.resposta();
+        //Questao26.resposta();
+        //Questao33.resposta();
+        //Questao49.resposta();
+        //Questao55.resposta();
+        //Questao57.resposta();
+        //Questao62.resposta();
         
         //Fábio: 5, 6, 14, 19, 23, 28, 31, 32, 41, 42, 48, 54, 61
         //Questao05.resposta(args);
@@ -65,14 +65,19 @@ public class Squad1_Lista3 {
         //Questao61.resposta(args);
         
         //Yasmin: 24, 36, 39, 45, 46, 50, 52, 56, 58, 59, 64, 65
+        //Questao24.resposta();
         //Questao36.resposta(args);
         //Questao39.resposta(args);
         //Questao45.resposta(args);
+        //Questao46.resposta();
         //Questao50.resposta(args);
+        //Questao52.resposta();
+        //Questao56.resposta();
+        //Questao58.resposta();
         //Questao59.resposta(args);
         //Questao64.resposta(args);
         //Questao65.resposta(args);
-                
+        
         //Higor: 2, 7, 20, 21, 22, 27, 30, 35, 37, 38, 43, 44, 60        
         //Questao02.resposta(args);
         //Questao07.resposta(args);
@@ -87,7 +92,5 @@ public class Squad1_Lista3 {
         //Questao43.resposta(args);
         //Questao44.resposta(args);
         //Questao60.resposta(args);
-        
-       
     }
-                   }
+}
